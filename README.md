@@ -28,4 +28,4 @@ A fully-featured C# command-line application that allows teachers to create, man
 
 ## 📁 File Overview
 
-All functionality is included in a **single source file** for easier distribution and review:
+All functionality is included in a **single source file** for easier distribution and review.
